@@ -1,4 +1,4 @@
 # CLionSFML
-Utiliser CLion avec SFML
+Utilizing SFML with CLion
 
-Lien de la vidéo : https://youtu.be/tOQT0vdL2FM
+Video Link : https://youtu.be/tOQT0vdL2FM
